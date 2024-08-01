@@ -3,7 +3,7 @@ import Board from "./components/Board"
 import Footer from "./components/Footer"
 
 
-function App() {
+const App = () => {
 
   return (
     <>
