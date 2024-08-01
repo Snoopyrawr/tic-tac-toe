@@ -11,7 +11,7 @@ const Footer = () => {
                     Reference
                 </a>
                 <a
-                    href="https://github.com/Snoopyrawr/Types-of-Stars"
+                    href="https://github.com/Snoopyrawr/tic-tac-toe"
                     className="font-bold text-neutral-400"
                     target="_blank"
                     rel="noopener noreferrer"
