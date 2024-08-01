@@ -8,7 +8,7 @@ type Props = {
 const Square = ({ value, onSquareClick, color }: Props) => {
 
     return (
-        <button className={`p-5 ${color} rounded-sm min-w-12`} onClick={onSquareClick}>{value}</button>
+        <button className={`p-5 ${color} rounded-sm min-w-12 font-bold text-2xl`} onClick={onSquareClick}>{value}</button>
     )
 }
 
